@@ -1,0 +1,3 @@
+# Ignore sqlite file but not zipped
+Data
+!zippedData
